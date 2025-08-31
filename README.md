@@ -10,7 +10,7 @@ These examples are intended as didactic tools for exploring the fundamentals of 
 ---
 
 ## Author
-Developed by **Maximiliano Silva Castillo**  
+Developed by **Maximiliano S. Castillo**  
 
 ---
 
@@ -53,7 +53,7 @@ You are free to use, modify, and distribute this code, provided that the origina
 If you use this repository in your work, please cite it as:
 
 ```
-Silva Castillo, M. (2025). Complex Networks Visualizations. GitHub repository.
+S. Castillo, M. (2025). Complex Networks Visualizations. GitHub repository.
 Available at: https://github.com/<your-username>/<your-repo>
 ```
 
