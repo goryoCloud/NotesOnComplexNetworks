@@ -24,7 +24,7 @@ The code is written in Python and uses the following main packages:
 Install requirements with:
 ```bash
 pip install networkx numpy matplotlib scipy
-
+```
 ---
 
 ## Usage
