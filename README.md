@@ -10,7 +10,9 @@ These examples are intended as didactic tools for exploring the fundamentals of 
 ---
 
 ## Author
-Developed by **Maximiliano S. Castillo**  
+Developed by **Maximiliano S. Castillo** 
+
+[LinkedIn](https://www.linkedin.com/in/maximiliano-silva96/) 
 
 ---
 
